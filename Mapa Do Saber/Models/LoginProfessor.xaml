@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Mapa_Do_Saber.Customizacao"
+             x:Class="Mapa_Do_Saber.Models.LoginProfessor">
+    <ContentPage.Content>
+        <StackLayout Padding="0">
+            <Grid>
+                <StackLayout Padding="0" Margin="0">
+                    <Frame BackgroundColor="#daa520" HeightRequest="100"   HorizontalOptions="FillAndExpand">
+
+                    </Frame>
+                </StackLayout>
+                <StackLayout Margin="15,80,15,0">
+
+                    <Frame BackgroundColor="White" HasShadow="True" HeightRequest="1100" HorizontalOptions="FillAndExpand">
+                        <StackLayout>
+                            <StackLayout HorizontalOptions="CenterAndExpand">
+                                <Image Source="Professor.png" Margin="10,0,0,0" HorizontalOptions="Center" VerticalOptions="Center" />
+                            </StackLayout>
+
+                            <StackLayout Margin="0,25,0,0">
+                                <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Frame BackgroundColor="AliceBlue" CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" Margin="7">
+
+                                        </Frame>
+
+                                        <local:MinhaCustomizacao Placeholder="Email" TextColor="#daa520" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                    </StackLayout>
+                                </Frame>
+
+                                <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0,20,0,0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Frame BackgroundColor="AliceBlue" CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" Margin="7">
+
+                                        </Frame>
+
+                                        <local:MinhaCustomizacao Placeholder="Senha" IsPassword="True" TextColor="#daa520" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                    </StackLayout>
+                                </Frame>
+
+                            </StackLayout>
+
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox IsChecked="False" Color="#daa520"/>
+                                <Label Text="Lembrar-me" Margin="0,1,0,0" HorizontalOptions="Start" VerticalTextAlignment="Center"/>
+
+                                <Label Text="Esquecer Senha" Margin="0,0,0,0" TextColor="#daa520" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center"/>
+
+                            </StackLayout>
+                            <Button Text="Entrar" BackgroundColor="#daa520" TextColor="White" Margin="0,35,0,0" FontSize="Large" CornerRadius="30"/>
+
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                                <Label Text="Ainda não é Membro?" Margin="0,1,0,0" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
+
+                                <Label Text="Criar Conta" Margin="0,0,0,0" TextColor="#daa520" VerticalTextAlignment="Center"/>
+
+                            </StackLayout>
+
+                            <Image Source="Enfor.png" Margin="50,25,50,0" HorizontalOptions="Center" VerticalOptions="Center" />
+
+                        </StackLayout>
+
+                    </Frame>
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
