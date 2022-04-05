@@ -964,8 +964,8 @@ public final class R {
 		public static final int abc_textfield_search_default_mtrl_alpha = 0x7f070052;
 		public static final int abc_textfield_search_material = 0x7f070053;
 		public static final int abc_vector_test = 0x7f070054;
-		public static final int avd_hide_password = 0x7f070056;
-		public static final int avd_show_password = 0x7f070057;
+		public static final int avd_hide_password = 0x7f070055;
+		public static final int avd_show_password = 0x7f070056;
 		public static final int design_fab_background = 0x7f070060;
 		public static final int design_ic_visibility = 0x7f070061;
 		public static final int design_ic_visibility_off = 0x7f070062;
@@ -988,8 +988,8 @@ public final class R {
 		public static final int notification_template_icon_low_bg = 0x7f07008c;
 		public static final int notification_tile_bg = 0x7f07008d;
 		public static final int notify_panel_notification_icon_bg = 0x7f07008e;
-		public static final int tooltip_frame_dark = 0x7f070092;
-		public static final int tooltip_frame_light = 0x7f070093;
+		public static final int tooltip_frame_dark = 0x7f070091;
+		public static final int tooltip_frame_light = 0x7f070092;
 	}
 	public static final class id {
 		public static final int accessibility_action_clickable_span = 0x7f08000f;

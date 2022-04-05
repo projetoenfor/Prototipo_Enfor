@@ -629,5 +629,5 @@ C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\res\drawable\mapadosaber.png
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\res\drawable\enfor.png
-C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\res\drawable\aluno.png
-C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\res\drawable\professor.png
+C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\res\drawable\colaboradores.png
+C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber.Android\obj\Debug\120\res\drawable\usuarios.png

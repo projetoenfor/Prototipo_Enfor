@@ -7,11 +7,11 @@ C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstand
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Mapa Do Saber.csproj.CoreCompileInputs.cache
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\bin\Debug\netstandard2.0\Mapa Do Saber.deps.json
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\bin\Debug\netstandard2.0\Mapa Do Saber.dll
-C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\bin\Debug\netstandard2.0\ref\Mapa Do Saber.dll
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\bin\Debug\netstandard2.0\Mapa Do Saber.pdb
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Mapa Do Saber.dll
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\ref\Mapa Do Saber.dll
 C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Mapa Do Saber.pdb
-C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Models\LoginProfessor.xaml.g.cs
-C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Models\LoginAlunos.xaml.g.cs
+C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Models\LoginColaboradores.xaml.g.cs
+C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\refint\Mapa Do Saber.dll
+C:\Works\C#\Estagio\Mapa Do Saber\Mapa Do Saber\Mapa Do Saber\obj\Debug\netstandard2.0\Models\LoginUsuarios.xaml.g.cs

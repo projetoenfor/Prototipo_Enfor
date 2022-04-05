@@ -16,15 +16,16 @@ namespace Mapa_Do_Saber
             InitializeComponent();
         }
 
-        private async void Button_Clicked_Professor(object sender, EventArgs e)
+        private async void Button_Clicked_Usuarios(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new LoginProfessor());
+            await Navigation.PushAsync(new LoginUsuarios());
         }
 
-        private async void Button_Clicked_Aluno(object sender, EventArgs e)
+        private async void Button_Clicked_Colaboradores(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new LoginAlunos());
+            await Navigation.PushAsync(new LoginColaboradores());
         }
+
 
         private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
         {

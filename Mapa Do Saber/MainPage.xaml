@@ -22,9 +22,9 @@
                             <Image Source="MapadoSaber.png" Margin="10,0,0,0" HorizontalOptions="Center" VerticalOptions="Center" />
                         </StackLayout>
 
-                        <Button Text="Professor" BackgroundColor="#daa520" TextColor="White" Margin="0,35,0,0" FontSize="Large" CornerRadius="30" Clicked="Button_Clicked_Professor"/>
+                        <Button Text="Usuários" BackgroundColor="#daa520" TextColor="White" Margin="0,35,0,0" FontSize="Large" CornerRadius="30" Clicked="Button_Clicked_Usuarios"/>
 
-                        <Button Text="Aluno" BackgroundColor="#daa520" TextColor="White" Margin="0,35,0,50" FontSize="Large" CornerRadius="30" Clicked="Button_Clicked_Aluno"/>
+                        <Button Text="Colaboradores" BackgroundColor="#daa520" TextColor="White" Margin="0,35,0,50" FontSize="Large" CornerRadius="30" Clicked="Button_Clicked_Colaboradores"/>
 
                         <Image Source="Enfor.png" Margin="50,25,50,0" HorizontalOptions="Center" VerticalOptions="Center" />
 
